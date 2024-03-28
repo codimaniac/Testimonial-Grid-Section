@@ -86,7 +86,7 @@ main {
 }
 
 .attribution {
-  margin-bottom: 2em;
+  margin: 2em 0;
 }
 
 @media (min-width: 920px) {
